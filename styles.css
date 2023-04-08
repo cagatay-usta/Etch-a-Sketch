@@ -3,7 +3,6 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100vh;
 
     background-color: #C5FAD5;
 }
@@ -21,8 +20,8 @@ body {
 }
 
 button {
-    height: 3rem;
-    width: 7rem;
+    height: 48px;
+    width: auto;
     margin-top: 24px;
 
     background-color: #AA96DA;
